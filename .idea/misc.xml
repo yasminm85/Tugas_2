@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Tugas2/app/src/main/res/drawable/button_red.xml" value="0.1545" />
+        <entry key="..\:/Tugas2/app/src/main/res/layout/activity_baru.xml" value="0.25" />
+        <entry key="..\:/Tugas2/app/src/main/res/layout/activity_forgot.xml" value="0.25" />
         <entry key="..\:/Tugas2/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Tugas2/app/src/main/res/layout/activity_reset.xml" value="0.25" />
+        <entry key="..\:/Tugas2/app/src/main/res/layout/activity_success.xml" value="0.1921875" />
       </map>
     </option>
   </component>
